@@ -19,4 +19,4 @@ function auto() {
 }
 let timeId = setInterval(() => {
     auto()
-}, 360000)
+}, 300000)
